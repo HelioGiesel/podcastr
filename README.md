@@ -6,3 +6,8 @@ It was an intense, challenge and really fun course.
 Can't wait to next NWL.
 
 check out Rocketseat content at https://rocketseat.com.br/
+
+Next improvments:
+- Responsivity
+- Dark Theme
+- PWA implementation
